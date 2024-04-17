@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172853065228",
+    "project_id": "sample-code-b7084",
+    "storage_bucket": "sample-code-b7084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172853065228:android:f732d8fef74c873349a029",
+        "android_client_info": {
+          "package_name": "com.ehab.samplecode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPONBMSsqeJlTlbvRJrUL6SoM8V6jEvwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
